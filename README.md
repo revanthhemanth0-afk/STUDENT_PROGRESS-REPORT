@@ -1,1 +1,2 @@
 # STUDENT_PROGRESS-REPORT
+This project is a beginner-level program developed using Python and Jupyter Notebook that demonstrates the working of a basic ATM system. It allows users to perform common operations such as checking account balance, depositing money, and withdrawing money through simple menu-driven logic. The main purpose of this project is to help beginners understand fundamental programming concepts like variables, conditional statements, loops, and user input handling by applying them to a real-world scenario.
